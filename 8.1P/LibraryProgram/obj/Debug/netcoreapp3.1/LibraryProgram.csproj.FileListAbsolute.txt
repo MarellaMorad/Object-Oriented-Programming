@@ -1,0 +1,13 @@
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\bin\Debug\netcoreapp3.1\LibraryProgram.exe
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\bin\Debug\netcoreapp3.1\LibraryProgram.deps.json
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\bin\Debug\netcoreapp3.1\LibraryProgram.runtimeconfig.json
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\bin\Debug\netcoreapp3.1\LibraryProgram.runtimeconfig.dev.json
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\bin\Debug\netcoreapp3.1\LibraryProgram.dll
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\bin\Debug\netcoreapp3.1\LibraryProgram.pdb
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\obj\Debug\netcoreapp3.1\LibraryProgram.csproj.AssemblyReference.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\obj\Debug\netcoreapp3.1\LibraryProgram.AssemblyInfoInputs.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\obj\Debug\netcoreapp3.1\LibraryProgram.AssemblyInfo.cs
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\obj\Debug\netcoreapp3.1\LibraryProgram.csproj.CoreCompileInputs.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\obj\Debug\netcoreapp3.1\LibraryProgram.dll
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\obj\Debug\netcoreapp3.1\LibraryProgram.pdb
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\8.1P\LibraryProgram\obj\Debug\netcoreapp3.1\LibraryProgram.genruntimeconfig.cache
