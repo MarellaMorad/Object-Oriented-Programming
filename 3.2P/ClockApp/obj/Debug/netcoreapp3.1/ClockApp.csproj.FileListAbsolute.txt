@@ -1,0 +1,13 @@
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\bin\Debug\netcoreapp3.1\ClockApp.exe
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\bin\Debug\netcoreapp3.1\ClockApp.deps.json
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\bin\Debug\netcoreapp3.1\ClockApp.runtimeconfig.json
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\bin\Debug\netcoreapp3.1\ClockApp.runtimeconfig.dev.json
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\bin\Debug\netcoreapp3.1\ClockApp.dll
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\bin\Debug\netcoreapp3.1\ClockApp.pdb
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\obj\Debug\netcoreapp3.1\ClockApp.csproj.AssemblyReference.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\obj\Debug\netcoreapp3.1\ClockApp.AssemblyInfoInputs.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\obj\Debug\netcoreapp3.1\ClockApp.AssemblyInfo.cs
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\obj\Debug\netcoreapp3.1\ClockApp.csproj.CoreCompileInputs.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\obj\Debug\netcoreapp3.1\ClockApp.dll
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\obj\Debug\netcoreapp3.1\ClockApp.pdb
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\3.2P\ClockApp\obj\Debug\netcoreapp3.1\ClockApp.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio Tasks\Lab1\SillyNames\bin\Debug\SillyNames.exe.config
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio Tasks\Lab1\SillyNames\bin\Debug\SillyNames.exe
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio Tasks\Lab1\SillyNames\bin\Debug\SillyNames.pdb
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio Tasks\Lab1\SillyNames\obj\Debug\SillyNames.csproj.AssemblyReference.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio Tasks\Lab1\SillyNames\obj\Debug\SillyNames.csproj.CoreCompileInputs.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio Tasks\Lab1\SillyNames\obj\Debug\SillyNames.exe
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio Tasks\Lab1\SillyNames\obj\Debug\SillyNames.pdb
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\1.1P\SillyNames\bin\Debug\SillyNames.exe.config
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\1.1P\SillyNames\bin\Debug\SillyNames.exe
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\1.1P\SillyNames\bin\Debug\SillyNames.pdb
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\1.1P\SillyNames\obj\Debug\SillyNames.csproj.AssemblyReference.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\1.1P\SillyNames\obj\Debug\SillyNames.csproj.CoreCompileInputs.cache
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\1.1P\SillyNames\obj\Debug\SillyNames.exe
+C:\Users\marel\OneDrive - Swinburne University\Semester 2 - 2021\COS20007 - Object Oriented Programming\Portfolio\1.1P\SillyNames\obj\Debug\SillyNames.pdb

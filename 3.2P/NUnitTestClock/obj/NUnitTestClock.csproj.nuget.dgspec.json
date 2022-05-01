@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\NUnitTestClock\\NUnitTestClock.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\ClockApp\\ClockApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\ClockApp\\ClockApp.csproj",
+        "projectName": "ClockApp",
+        "projectPath": "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\ClockApp\\ClockApp.csproj",
+        "packagesPath": "C:\\Users\\marel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\ClockApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\NUnitTestClock\\NUnitTestClock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\NUnitTestClock\\NUnitTestClock.csproj",
+        "projectName": "NUnitTestClock",
+        "projectPath": "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\NUnitTestClock\\NUnitTestClock.csproj",
+        "packagesPath": "C:\\Users\\marel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\NUnitTestClock\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\ClockApp\\ClockApp.csproj": {
+                "projectPath": "C:\\Users\\marel\\OneDrive - Swinburne University\\Semester 2 - 2021\\COS20007 - Object Oriented Programming\\Portfolio\\3.2P\\ClockApp\\ClockApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
