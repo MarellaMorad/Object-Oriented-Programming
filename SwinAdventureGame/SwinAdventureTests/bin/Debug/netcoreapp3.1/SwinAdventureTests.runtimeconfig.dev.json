@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marel\\.nuget\\packages"
+    ]
+  }
+}

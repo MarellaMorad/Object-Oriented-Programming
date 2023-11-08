@@ -1,0 +1,16 @@
+C:\Users\marel\Desktop\Projects\DifferentShapes\bin\Debug\netcoreapp5.0\DifferentShapes.exe
+C:\Users\marel\Desktop\Projects\DifferentShapes\bin\Debug\netcoreapp5.0\DifferentShapes.deps.json
+C:\Users\marel\Desktop\Projects\DifferentShapes\bin\Debug\netcoreapp5.0\DifferentShapes.runtimeconfig.json
+C:\Users\marel\Desktop\Projects\DifferentShapes\bin\Debug\netcoreapp5.0\DifferentShapes.runtimeconfig.dev.json
+C:\Users\marel\Desktop\Projects\DifferentShapes\bin\Debug\netcoreapp5.0\DifferentShapes.dll
+C:\Users\marel\Desktop\Projects\DifferentShapes\bin\Debug\netcoreapp5.0\ref\DifferentShapes.dll
+C:\Users\marel\Desktop\Projects\DifferentShapes\bin\Debug\netcoreapp5.0\DifferentShapes.pdb
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\DifferentShapes.csproj.AssemblyReference.cache
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\DifferentShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\DifferentShapes.AssemblyInfoInputs.cache
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\DifferentShapes.AssemblyInfo.cs
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\DifferentShapes.csproj.CoreCompileInputs.cache
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\DifferentShapes.dll
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\ref\DifferentShapes.dll
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\DifferentShapes.pdb
+C:\Users\marel\Desktop\Projects\DifferentShapes\obj\Debug\netcoreapp5.0\DifferentShapes.genruntimeconfig.cache
